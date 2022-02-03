@@ -5,23 +5,23 @@ O projeto possúi uma temática de loja de roupas no estilo e-commerce
 
 # Screenshots
 
-<img src='./screenshots/Screenshot1.png'>
+<img src='./screenshots/Screenshot1.jpg'>
 
-<img src='./screenshots/Screenshot2.png'>
+<img src='./screenshots/Screenshot2.jpg'>
 
-<img src='./screenshots/Screenshot3.png'>
+<img src='./screenshots/Screenshot3.jpg'>
 
-<img src='./screenshots/Screenshot4.png'>
+<img src='./screenshots/Screenshot4.jpg'>
 
-<img src='./screenshots/Screenshot5.png'>
+<img src='./screenshots/Screenshot5.jpg'>
 
-<img src='./screenshots/Screenshot6.png'>
+<img src='./screenshots/Screenshot6.jpg'>
 
-<img src='./screenshots/Screenshot7.png'>
+<img src='./screenshots/Screenshot7.jpg'>
 
-<img src='./screenshots/Screenshot8.png'>
+<img src='./screenshots/Screenshot8.jpg'>
 
-<img src='./screenshots/Screenshot9.png'>
+<img src='./screenshots/Screenshot9.jpg'>
 
 # Instalação:
 + Esse projeto necessita de MySQL para funcionar.
