@@ -19,10 +19,6 @@ O projeto possúi uma temática de loja de roupas no estilo e-commerce
 
 <img src='./screenshots/Screenshot7.jpg'>
 
-<img src='./screenshots/Screenshot8.jpg'>
-
-<img src='./screenshots/Screenshot9.jpg'>
-
 # Instalação:
 + Esse projeto necessita de MySQL para funcionar.
 + para instalar o projeto, entre na pasta Database e execute o script no seu SGBD.
