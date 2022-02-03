@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form onsubmit='(event)=>event.preventDefault()' action='http://localhost:5000/upload/form' method='post' enctype='multipart/form-data'>
+        <input type='text' name='usernameForm'>
+        <input type='password' name='passwordForm'>
+        <input type='file' name='profile_photo'>
+        <input type='submit' value='Enviar'>
+    </form>
+</body>
+</html>
