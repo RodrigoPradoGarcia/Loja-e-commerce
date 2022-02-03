@@ -1,6 +1,6 @@
 # Fashonei
 
-Um projeto desenvolvido com o intuito de praticar integrações de APIS com React
+Um projeto desenvolvido com o intuito de praticar integrações de APIS com React.
 O projeto possúi uma temática de loja de roupas no estilo e-commerce
 
 # Screenshots
