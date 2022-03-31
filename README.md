@@ -1,6 +1,6 @@
 # Fashonei
 
-Um projeto desenvolvido com o intuito de praticar integrações de APIS com React.
+Um projeto desenvolvido em React, Node.js e banco de dados MySQL
 
 O projeto possui uma temática de loja de roupas no estilo e-commerce
 
